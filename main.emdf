@@ -1,0 +1,16 @@
+<nav_bar>
+search=True
+search.pos=right
+search|placeholder="Search MediaWorld"
+search|results.pos=overlay_below_*search*
+search|type=box
+logo=True
+logo.pos=left
+logo|url="https://static.vecteezy.com/system/resources/thumbnails/020/032/511/small_2x/stars-of-european-union-symbol-png.png"
+logo|text="MediaWorld"
+logo|text.pos=right_of_*logo*
+<!navbar>
+<sidebar>
+categories=True
+categories.pos=fill
+<!sidebar>
