@@ -1,0 +1,12 @@
+<main_content>
+title_text=True
+title_text.pos=left_middle
+title_text|data="MediaWorld"
+subtitle_text=True
+subtitle_text.pos=below_*title_text*
+subtitle_text|data="large archive of the internet and beyond"
+subtitle_text|button1.pos=below_*subtitle_text*
+subtitle_text|button1|data="Github"
+subtitle_text|button1|data.onclick=open_new_tab.to("https://github.com/WFIS01/mediaworld/")
+subtitle_text|button2.pos=below_*subtitle_text*&right_of_*button1*
+<!main_content>
