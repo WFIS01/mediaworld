@@ -9,4 +9,5 @@ subtitle_text|button1.pos=below_*subtitle_text*
 subtitle_text|button1|data="Github"
 subtitle_text|button1|data.onclick=open_new_tab.to("https://github.com/WFIS01/mediaworld/")
 subtitle_text|button2.pos=below_*subtitle_text*&right_of_*button1*
+subtitle_text|button2|data.onclick=action.search(random)
 <!main_content>
