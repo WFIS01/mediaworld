@@ -1,2 +1,2 @@
-# mediaworld
-An alternative to FMHY
+# MediaWorld
+An alternative to FMHY, for everything.
