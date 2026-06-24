@@ -4,4 +4,8 @@ title.pos=header
 title|data="🎥 Streaming Services"
 subtitle=True
 subtitle.pos=subheading
-subtitle|s1|data=
+subtitle|s1|data="Everything"
+subtitle|s2|data="Movies"
+subtitle|s3|data="Series"
+subtitle|s4|data="Anime"
+</main>
